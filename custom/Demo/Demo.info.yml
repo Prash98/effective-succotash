@@ -1,0 +1,4 @@
+name: Drupal 8 Demo_module
+description: 'Demo module fore drupal 8'
+type: module
+core: 8.x
